@@ -11,4 +11,9 @@ public class Demo01 {
         System.out.println("hello word");
         System.out.println("hello");
     }
+
+    @Test
+    public void print() {
+        System.out.println("你好，世界");
+    }
 }
